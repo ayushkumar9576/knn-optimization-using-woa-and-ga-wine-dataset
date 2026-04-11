@@ -26,7 +26,6 @@ The model is applied to the UCI Wine Dataset to classify wines into different ca
 * NumPy
 * Scikit-learn
 * Matplotlib
-* Pandas
 * Jupyter Notebook
 
 ---
@@ -104,7 +103,7 @@ knn-optimization-using-woa-and-ga-wine-dataset/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/knn-optimization-using-woa-and-ga-wine-dataset.git
+git clone https://github.com/ayushkumar9576/knn-optimization-using-woa-and-ga-wine-dataset.git
 ```
 
 2. Navigate to the project folder:
